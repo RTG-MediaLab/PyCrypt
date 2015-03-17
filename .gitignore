@@ -1,0 +1,5 @@
+# Don't sync testing environment
+venv
+
+# Don't sync mac sillyness
+.DS_Store
